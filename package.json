@@ -1,0 +1,8 @@
+{
+  "name": "renovate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/souravdasslg2/renovate.git",
+  "author": "Sourav <souravdasslg95@gmail.com>",
+  "license": "MIT"
+}
