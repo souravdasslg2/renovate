@@ -1,14 +1,14 @@
 {
-    "platform": 'bitbucket',
-    "username": 'username',
-    "password":'password',
-    "logFileLevel": 'warn',
-    "logLevel": 'info',
-    "logFile": '/Users/nicolasjuen/renovate.log',
-    "onboarding": true,
+    "platform": "bitbucket",
+    "username": "username",
+    "password":"password",
+    "logFileLevel": "warn",
+    "logLevel": "info",
+    "logFile": "/Users/nicolasjuen/renovate.log",
+    "onboarding": false,
     "gitAuthor": "Renovate Bot <bot@renovateapp.com>"
     "onboardingConfig": {
-      extends: ['config:base'],
+      "extends": ["config:base"],
     },
-    "repositories": [ 'company/rep-name' ],
+    "repositories": [ "company/rep-name" ],
   }
