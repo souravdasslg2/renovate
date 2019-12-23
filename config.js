@@ -10,5 +10,5 @@
     "onboardingConfig": {
       "extends": ["config:base"],
     },
-    "repositories": [ "company/rep-name" ],
+    "repositories": [ "souravdasslg2/renovate" ],
   }
